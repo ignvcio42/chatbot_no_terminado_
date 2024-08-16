@@ -26,3 +26,6 @@ Este proyecto es una aplicación de chatbot que ayuda a los usuarios a obtener r
     deactivate
     ```
 
+## Creditos
+[![Tutorial](https://i.ytimg.com/vi/kUaE8btwt-Y/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBuLRWPklz-ZAbna4ma7OWmkZteow)](https://youtu.be/kUaE8btwt-Y)
+
